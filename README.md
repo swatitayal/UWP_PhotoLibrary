@@ -15,4 +15,3 @@ Username - Andrew
 Password - 123
 
 
-FYI on a separate branch, we have another version of the project which saves the file in .json format. 
